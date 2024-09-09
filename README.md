@@ -1,4 +1,4 @@
-# Welcome to the first project of the FOSE Foundation: DIGITAL-HODL-UP!
+# Welcome to DIGITAL-HODL-UP!
 
 The purpose of the FOSE Foundation is to empower individuals and communities through free and open-source education. We aim to promote money literacy and other first-principles education by integrating game schooling techniques that make learning both engaging and accessible.
 
