@@ -10,7 +10,7 @@ Hodl Up (the physcial game) has been played by thousands. Testimonies include Ma
 
 ### (2) OPEN SOURCE LICENSING
 
-Free Market Kids has granted FOSE Foundation use of the DIGITAL (not physical) Hodl Up game using license Creative Commons (CC BY-SA 4.0). See "License".
+Free Market Kids has granted FOSE Foundation use of the DIGITAL (not physical) Hodl Up game using license Creative Commons Attribution–NonCommercial–ShareAlike (BY-NC-SA 4.0). See "License".  (Free Market Kids has registered TM for Hodl Up and copyright for its rulebook.)
 
 ### (3) PROOF-OF-CONCEPT
 
