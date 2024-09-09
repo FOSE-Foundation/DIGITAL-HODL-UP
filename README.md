@@ -34,7 +34,11 @@ Physical games do not give users direct experience to Lightning or Nostr. Digita
 
 Animated how-to-play video of tabletop Hodl Up:  https://youtu.be/ezwzpFz3--4?si=dK3Ohm96EZ5kFS_1
 
+Interview with Free Market Kids cofounders on Citadel Dispatch CD84: https://fountain.fm/episode/A4Ka2K2KMimcpfPc2Nlp
+
 Interview with game designer on The Investor Podcast BTC140: https://youtu.be/ODlLabon8fQ?si=wQSTjpctT7ucuC8E
+
+Interview with Free Market Kids cofounders on Bitcoin Audible Chat103: https://fountain.fm/episode/58FYCbQM4yiYoDaGGVlJ
 
 For background on the company that made Hodl Up, Free Market Kids, visit https://www.freemarketkids.com
 
