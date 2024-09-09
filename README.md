@@ -10,7 +10,7 @@ Hodl Up has been played by thousands. Testimonies include Matt Odell (CD84), Pre
 
 ### (2) OPEN SOURCE LICENSING
 
-Free Market Kids has granted FOSE Foundation use of the DIGITAL (not physical) Hodl Up game using licenses GPL-3.0 and Creative Commons (CC BY-SA 4.0). See licensing.
+Free Market Kids has granted FOSE Foundation use of the DIGITAL (not physical) Hodl Up game using license Creative Commons (CC BY-SA 4.0). See licensing.
 
 ### (3) PROOF-OF-CONCEPT
 
