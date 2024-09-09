@@ -6,7 +6,7 @@ The purpose of the FOSE Foundation is to empower individuals and communities thr
 
 ### (1) PROOF-OF-WORK IMPACT
 
-Hodl Up (the physcial game) has been played by thousands. Testimonies include Matt Odell (CD84), Preston Pysh (BTC140), Guy Swann (Chat103) and many, many plebs. For background on the company that made Hodl Up, Free Market Kids, visit https://www.freemarketkids.com
+Hodl Up, a tabletop bitcoin mining game, has been played by thousands. Testimonies include Matt Odell (CD84), Preston Pysh (BTC140), Guy Swann (Chat103) and many, many plebs. For background on the company that made Hodl Up, Free Market Kids, visit https://www.freemarketkids.com
 
 ### (2) OPEN SOURCE LICENSING
 
