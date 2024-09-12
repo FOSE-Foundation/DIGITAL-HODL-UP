@@ -22,11 +22,11 @@ The front-end will be a progressive web app (PWA). The back-end will be Nostr. W
 
 Physical games are expensive to produce and ship so their global impact is limited and slow. Digital versions eliminate these supply chain constraints.
 
-### (2) ﻿﻿﻿﻿LANGUAGES 
+### (2) ﻿﻿﻿﻿LANGUAGES
 
-Translating games to other languages faces minimum order quantity and other physical production realities. Digital versions are infinitely flexible.
+Translating games to other languages faces minimum order quantity and other physical production realities.Digital versions are infinitely flexible.
 
-### ﻿﻿﻿﻿(3) FREEDOM TECHNOLOGIES  
+### ﻿﻿﻿﻿(3) FREEDOM TECHNOLOGIES 
 
 Physical games do not give users direct experience to Lightning or Nostr. Digital versions using Nostr on the backend provide a huge first step to introduce people to freedom technologies.
 

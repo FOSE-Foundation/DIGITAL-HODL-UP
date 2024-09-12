@@ -1,0 +1,57 @@
+/* Importing Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+
+html,
+body,
+#app {
+  font-family: "Roboto Mono", monospace;
+  height: 100%;
+  color: #fff;
+  background-color: #000;
+  font-size: 0.85em;
+}
+
+.card-gap {
+  gap: 10px;
+}
+
+.link,
+.link:hover,
+.link:visited {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.hot-wallet {
+  opacity: 0.4;
+  color: orangered;
+}
+
+.strategic-reserve {
+  opacity: 0.4;
+  color: lightblue;
+}
+
+.B {
+  color: blue;
+}
+
+.R {
+  color: red;
+}
+
+.O {
+  color: orange;
+}
+
+.G {
+  color: green;
+}
+
+.W {
+  color: white;
+}
+
+.Y {
+  color: yellow;
+}
