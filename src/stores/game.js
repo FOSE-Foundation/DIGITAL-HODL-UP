@@ -184,6 +184,8 @@ export const gameState = defineStore('game', () => {
         blocks.value = [];
         turns.value = [];
 
+        difficulty.value = 21;
+
         mineGenesisBlock();
     }
 
@@ -287,12 +289,11 @@ export const gameState = defineStore('game', () => {
             return (!actions.value.current || actions.value.current == 'draw') && currentPlayer.value.miners - (currentPlayer.value.transaction.drawCards.length || 0) > 0;
         },
         draw: function (deck) {
-
-            var card = decks.value[deck].pop();
-
             if (decks.value[deck].length == 0) {
                 resetDeck(deck);
             }
+
+            var card = decks.value[deck].pop();
 
             currentPlayer.value.transaction.drawCards.push(card);
 
