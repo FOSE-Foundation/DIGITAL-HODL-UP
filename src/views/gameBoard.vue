@@ -77,7 +77,7 @@
             <div class="is-flex is-justify-content-space-between is-flex-wrap-wrap card-gap mt-1 mb-4">
                 <o-button @click="game.actions.setCurrent('draw')" size="small" :disabled="game.currentPlayer.id != 'B' || !game.actions.canDraw()" icon-left="bars">Draw</o-button>
                 <o-button @click="game.actions.setCurrent('buyMiner')" size="small" :disabled="game.currentPlayer.id != 'B' || !game.actions.canBuyMiner()" icon-left="circle-plus">Miner</o-button>
-                <o-button @click="game.actions.setCurrent('coldStorage')" size="small" :disabled="game.currentPlayer.id != 'B' || !game.actions.canColdStorage()" icon-left="snowflake">Reserve</o-button>
+                <o-button @click="game.actions.setCurrent('coldStorage')" size="small" :disabled="game.currentPlayer.id != 'B' || !game.actions.canColdStorage()" icon-left="snowflake">Store</o-button>
                 <o-button @click="game.actions.endTurn" size="small" :disabled="game.currentPlayer.id != 'B'" icon-left="arrow-left">End turn</o-button>
                 <o-button @click="game.actions.mine" size="small" :disabled="game.currentPlayer.id != 'B' || !game.actions.canMine()" icon-left="hammer">Mine</o-button>
             </div>

@@ -63,7 +63,7 @@
                         </div>
                         <div>|</div>
                         <div>
-                            <div style="position: relative; display: inline-block;"><span style="position: relative; z-index: 10;" class="is-size-5 has-text-weight-bold">{{ player.bitcoin.cold }}</span><o-icon icon="snowflake" :size="mode == 'status' ? 'medium' : 'large'" class="strategic-reserve" style="z-index: 1; position: absolute; top: 50%; left: 50%;transform: translate(-50%, -50%);" /></div>
+                            <div style="position: relative; display: inline-block;"><span style="position: relative; z-index: 10;" class="is-size-5 has-text-weight-bold">{{ player.bitcoin.cold }}</span><o-icon icon="snowflake" :size="mode == 'status' ? 'medium' : 'large'" class="cold-storage" style="z-index: 1; position: absolute; top: 50%; left: 50%;transform: translate(-50%, -50%);" /></div>
                         </div>
                     </div>
                 </div>

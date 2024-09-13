@@ -34,7 +34,7 @@
                 <div class="header" id="storage">Key storage</div>
                 <div>
                     <div><o-icon icon="fire" class="hot-wallet" size="large" /><b>Hot Wallet</b> can be attacked by other players.</div>
-                    <div><o-icon icon="snowflake" class="strategic-reserve" size="large" /><b>Strategic Reserve</b> cannot be attacked by other players.</div>
+                    <div><o-icon icon="snowflake" class="cold-storage" size="large" /><b>Cold storage</b> cannot be attacked by other players.</div>
                 </div>
 
                 <div class="header" id="card-types">Card Types</div>
@@ -100,7 +100,7 @@
 
                 <div class="header" id="defense">Attack / Defense</div>
                 <div>When a transaction attacks your bitcoin, you are a forced sender in another miner's transaction. You are given a 50/50 chance of defending this attack.</div>
-                <div><o-icon icon="shield" size="large" />If the defense is successful, the amount of bitcoin that was attacked is moved your <a class="link" href="#storage">strategic reserve</a>.</div>
+                <div><o-icon icon="shield" size="large" />If the defense is successful, the amount of bitcoin that was attacked is moved your <a class="link" href="#storage">cold storage</a>.</div>
                 <div><o-icon icon="hammer" size="large" />If the defense fails, the block is mined and your bitcoin is lost</div>
 
                 <div class="header" id="mining">Mining a block</div>
@@ -154,17 +154,17 @@
                 <div class="is-flex is-justify-content-space-between">
                     <o-button icon-left="bars">Draw</o-button>
                     <o-button icon-left="circle-plus">Miner</o-button>
-                    <o-button icon-left="snowflake">Reserve</o-button>
+                    <o-button icon-left="snowflake">Store</o-button>
                 </div>
 
-                <div><b><o-icon icon="bars" />Draw</b></div>
+                <div class="mt-4"><o-button icon-left="bars" size="small">Draw</o-button></div>
                 <div>You can draw as many cards as you have miners. Draw cards to build a <a class="link" href="#valid-transactions">valid transaction</a>. Draw any <a class="link" href="#card-types">card type</a> and swap with a similar card in your hand.</div>
 
-                <div><b><o-icon icon="circle-plus" />Miner</b></div>
+                <div><o-button icon-left="circle-plus" size="small">Miner</o-button></div>
                 <div>Purchase an available miner from an NPC. You can purchase 1 per turn. Miners cost 1 bitcoin each. Buying a miner will allow you to draw one additional card each round for the rest of the game.</div>
 
-                <div><b><o-icon icon="snowflake" />Reserve</b></div>
-                <div class="mb-6">Transfer up to 2 bitcoin from your hot wallet to your strategic reserve per turn. Bitcoin in strategic reserve cannot be attacked by other players.</div>
+                <div><o-button icon-left="snowflake" size="small">Store</o-button></div>
+                <div class="mb-6">Transfer up to 2 bitcoin from your hot wallet to your cold storage per turn. Bitcoin in cold storage cannot be attacked by other players.</div>
             </div>
         </section>
     </div>

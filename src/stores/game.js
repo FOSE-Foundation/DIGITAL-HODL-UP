@@ -649,7 +649,7 @@ export const gameState = defineStore('game', () => {
             case 'mine': return 'mine';
             case 'buyMiner': return 'buy miner';
             case 'draw': return 'cards';
-            case 'coldStorage': return 'strategic reserve';
+            case 'coldStorage': return 'cold storage';
             case 'defense': return 'defends';
             default: '';
         }
